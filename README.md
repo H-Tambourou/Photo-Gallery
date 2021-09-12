@@ -1,5 +1,4 @@
 # Photo Gallery 
-------------------
 - Photo Gallery created using React. 
 
 ## Available Scripts
